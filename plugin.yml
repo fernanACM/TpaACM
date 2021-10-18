@@ -4,6 +4,7 @@ main: Tp\Tpa
 api: 3.0.0
 author: fernanACM
 website: https://github.com/fernanACM
+description: Simple tpa v1.0
 
 commands: 
   tpa:
