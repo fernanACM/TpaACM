@@ -1,9 +1,9 @@
-name: SimpleTPA
+name: TpaACM
 version: 1.0
 main: Tp\Tpa
 api: 3.0.0
-author: TheOriginDeveloppement
-website: https://github.com/TheOriginDeveloppement
+author: fernanACM
+website: https://github.com/fernanACM
 
 commands: 
   tpa:
@@ -12,6 +12,6 @@ commands:
     description: Send teleport request to teleport player to your self
   tpaccept:
     description: Accept teleport request
-  tpdeny:
+  tpadeny:
     description: Deny teleport request
   
