@@ -120,12 +120,12 @@ class Tpa extends PluginBase implements Listener{
             break;
             case "tpadeny":
             if(isset($this->vktmarr[strtolower($sender->getLowerCaseName())])){
-                $this->asker->sendMessage("§3§l[§bTpaACM§3]§r§e".$sender->getName() . " §cdeny your request");
+                $this->asker->sendMessage("§3§l[§bTpaACM§3] §r§e".$sender->getName() . " §cdeny your request");
                 $this->vktm->sendMessage("§3§l[§bTpaACM§3] §c§lYou have deny a request");
                 unset($this->askerarr[$this->asker->getLowerCaseName()]);
                 unset($this->vktmarr[$this->vktm->getLowerCaseName()]);
               }elseif(isset($this->vktmarrhere[strtolower($sender->getLowerCaseName())])){ 
-                  $this->asker->sendMessage("§3§l[§bTpaACM§3]§r§e".$sender->getName() . " §cdeny your request");
+                  $this->asker->sendMessage("§3§l[§bTpaACM§3] §r§e".$sender->getName() . " §cdeny your request");
                   $this->vktm->sendMessage("§3§l[§bTpaACM§3] §c§lYou have deny a request");
                   unset($this->askerarrhere[$this->asker->getLowerCaseName()]);
                   unset($this->vktmarrhere[$this->vktm->getLowerCaseName()]);
