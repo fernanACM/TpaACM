@@ -8,7 +8,7 @@ A simple TPA that helps teleport to another player in another location by runnin
  * /tpadeny : Deny teleport request
   
  ### Update dashboard
-| Version | Phar Download |	Zip Download | API Stable | mcpe-protocol | 
+| Version | API Stable | mcpe-protocol | 
 |-------|-------------|-------------|-----------|-------|
-| 1.0 | [Poggit]() | [GitHub]() |3.0.0| 465 |
+| 1.0 | 3.0.0 | 465 |
  
