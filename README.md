@@ -10,5 +10,5 @@ A simple TPA that helps teleport to another player in another location by runnin
  ### Update dashboard
 | Version | Phar download | Zip download |API Stable | mcpe-protocol | 
 |-------|-----------|----------|------|-------|
-| 1.0 | 3.0.0 | 465 |
+| 1.0 |    |    | 3.0.0 | 465 |
  
