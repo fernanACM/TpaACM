@@ -15,15 +15,6 @@ class Tpa extends PluginBase implements Listener{
 
     public function onEnable(){
           $this->getServer()->getPluginManager()->registerEvents($this, $this);
-        $this->getServer()->getLogger()->info("
-  _____                      _       ____   __  __ 
- |_   _|  _ __     __ _     / \     / ___| |  \/  |
-   | |   | '_ \   / _` |   / _ \   | |     | |\/| |
-   | |   | |_) | | (_| |  / ___ \  | |___  | |  | |
-   |_|   | .__/   \__,_| /_/   \_\  \____| |_|  |_|
-         |_|                                       
-        by fernanACM 
-        ");
         $this->askerarr = [];
         $this->vktmarr = [];
         $this->vktmarrhere = [];
