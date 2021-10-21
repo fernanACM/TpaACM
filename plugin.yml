@@ -5,7 +5,7 @@ api: 3.0.0
 mcpe-protocol: 465, 471
 author: fernanACM
 website: https://github.com/fernanACM
-description: Simple tpa v1.1
+description: A simple TPA for PocketMine-MP
 
 commands: 
   tpa:
