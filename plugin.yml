@@ -1,11 +1,11 @@
 name: TpaACM
-version: 1.0
-main: Tp\Tpa
+version: 1.1
+main: fernanACM\Tpa
 api: 3.0.0
 mcpe-protocol: 465, 471
 author: fernanACM
 website: https://github.com/fernanACM
-description: Simple tpa v1.0
+description: Simple tpa v1.1
 
 commands: 
   tpa:
