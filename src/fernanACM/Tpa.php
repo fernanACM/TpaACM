@@ -1,6 +1,6 @@
 <?php
 
-namespace Tp;
+namespace fernanACM;
 
 use pocketmine\Server;
 use pocketmine\Player;
