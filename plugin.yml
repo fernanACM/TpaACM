@@ -2,9 +2,6 @@ name: TpaACM
 version: 1.1
 main: fernanACM\Tpa
 api: 3.0.0
-mcpe-protocol:
-- 465
-- 471
 author: fernanACM
 website: https://github.com/fernanACM
 description: A simple TPA for PocketMine-MP
